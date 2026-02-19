@@ -9,3 +9,9 @@ img:hover {
 .error {
     text-align: center;
 }
+a:link {
+    color: blue;
+}
+a:visited{
+    color: purple;
+}
